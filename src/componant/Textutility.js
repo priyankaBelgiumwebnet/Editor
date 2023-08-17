@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import { Container } from 'react-bootstrap'
-import Alert from 'react-bootstrap/Alert'
 
 export const Textutility = (props) => {
   // const [alrtText, setalrtText] = useState('Enable dark mode', 'Success');
